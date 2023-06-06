@@ -1,0 +1,19 @@
+table	{
+	border: 1px solid silver;
+}
+
+td:hover	{
+	background-color: blue;
+	color: black;
+}
+
+tr, th	{
+	background-color: black;
+	color: green;
+}
+
+tr, td	{
+	background-color: yellow;
+	color: purple;
+}
+
