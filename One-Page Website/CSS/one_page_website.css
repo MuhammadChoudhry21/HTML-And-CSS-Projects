@@ -1,0 +1,32 @@
+h1 {
+    font-family: Arial;
+    font-size: 36px;
+}
+
+h3 {
+    font-family: Arial;
+    font-size: 18px;
+}
+
+h4 {
+    font-family: Arial;
+    font-size: 14px;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 24px;
+}
+
+input {
+    width: 30%;
+    margin: 4px;
+    border-style: double;
+    border-radius: 7px;
+    border-top: 12px;
+    margin: 8px;
+}
+
+.Contact {
+    text-align: center;
+}
