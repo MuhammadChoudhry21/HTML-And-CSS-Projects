@@ -1,7 +1,7 @@
 # HTML-And-CSS-Projects
-Hi, this Repository will be used to store my HTML & CSS Projects from the course.
+Hi! This is the readme section for this repository. Thanks for stopping by!
 
-## Projects
+## My Projects
 -[Space Station Site](https://github.com/MuhammadChoudhry21/HTML-And-CSS-Projects/tree/main/Creating-a-Basic-HTML-Website_Project-Folder)
 
 -[Movie Theatre](https://github.com/MuhammadChoudhry21/HTML-And-CSS-Projects/tree/main/bootstrap4_project)
